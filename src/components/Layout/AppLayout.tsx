@@ -17,8 +17,6 @@ import {
   MenuUnfoldOutlined,
   UserOutlined,
   DashboardOutlined,
-  TeamOutlined,
-  FileTextOutlined,
   SettingOutlined,
   LogoutOutlined,
   BellOutlined

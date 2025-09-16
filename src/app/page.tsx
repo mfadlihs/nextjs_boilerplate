@@ -78,7 +78,8 @@ export default function Home() {
               Next.js Boilerplate
             </Title>
             <Paragraph
-              style={{ fontSize: '18px', margin: 0, maxWidth: '600px' }}
+              style={{ fontSize: '18px', maxWidth: '600px' }}
+              className="mx-auto"
             >
               A comprehensive starter template with React Query for state
               management, Ant Design for UI components, and Axios for HTTP
