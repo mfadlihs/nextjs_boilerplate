@@ -1,4 +1,4 @@
-# Next.js Boilerplate
+# Next.js + React Query Boilerplate
 
 A comprehensive Next.js boilerplate with React Query, Ant Design, and Axios for rapid development.
 
